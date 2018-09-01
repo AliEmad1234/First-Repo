@@ -4,7 +4,7 @@
 ### [titanic](Titanic)
 * Titanic problem analysis.
 
-### [Bank_HeartDisease](Bank and Heart Disease)
+### [Bank_HeartDisease](Bank_HeartDisease)
 * Bank and HeartDisease Classification analysis.
 
 ### [Churn and Mushrooms](Churn and Mushrooms)
@@ -30,15 +30,4 @@
 
 ### [Wine and BreastCancer](Wine and BreastCancer)
 * Wine and BreastCancer Classification task.
-
-
-
-
-
-
-
-
-
-
-
 
