@@ -1,10 +1,10 @@
 # Machine-Learning tasks
 ![machine-learning](res/ML.png)
 
-### [titanic](Titanic)
+### [Titanic](titanic)
 * Titanic problem analysis.
 
-### [Bank_HeartDisease](Bank and Heart Disease)
+### [Bank and Heart Disease](Bank_HeartDisease)
 * Bank and HeartDisease Classification analysis.
 
 ### [Churn_Mushrooms](Churn and Mushrooms)
