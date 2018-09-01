@@ -1,7 +1,7 @@
 # Machine-Learning tasks
 ![machine-learning](res/ML.png)
 
-### [titanic](Titanic)
+### [titanic](titanic)
 * Titanic problem analysis.
 
 ### [Bank_HeartDisease](Bank_HeartDisease)
