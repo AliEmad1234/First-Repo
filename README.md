@@ -1,2 +1,2 @@
 # This is my First Repository
-![machine-learning](ML.png)
+![machine-learning](res/ML.png)
