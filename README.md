@@ -10,16 +10,16 @@
 ### [Churn and Mushrooms](Churn_Mushrooms)
 * Churn and Mushrooms Classification analysis.
 
-### [cpu performance and Time Analysis](cpu_performance_Time Analysis prediction)
+### [cpu performance and Time Analysis](cpu_performance_Time%20Analysis%20prediction)
 * cpu performance and Time Analysis prediction
 
-### [Daily minimum temperatures in Melbourne, Australia, 1981-1990 and Mobile](Daily minimum temperatures in Melbourne, Australia, 1981-1990_Mobile)
+### [Daily minimum temperatures in Melbourne, Australia, 1981-1990 and Mobile](Daily%20minimum%20temperatures%20in%20Melbourne,%20Australia,%201981-1990_Mobile)
 * Daily minimum temperatures in Melbourne, Australia, 1981-1990 and Mobile Prediction.
 
 ### [fifa and kickStarter](fifa_kickStarter)
 * fifa and kickStarter Analysis.
 
-### [flattenArray and residual sum of squares selectQuery](flattenArray_residual sum of squares_selectQuery)
+### [flattenArray and residual sum of squares selectQuery](flattenArray_residual%20sum%20of%20squares_selectQuery)
 * flattenArray and residual sum of squares selectQuery task.
 
 ### [Polynomial Regression](Polynomial_Task)
@@ -30,4 +30,3 @@
 
 ### [Wine_BreastCancer](Wine_BreastCancer)
 * Wine and BreastCancer Classification task.
-
