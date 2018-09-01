@@ -10,7 +10,7 @@
 ### [Churn and Mushrooms](Churn_Mushrooms)
 * Churn and Mushrooms Classification analysis.
 
-### [cpu performance and Time Analysis prediction](cpu_performance_Time Analysis prediction)
+### [cpu performance and Time Analysis](cpu_performance_Time Analysis prediction)
 * cpu performance and Time Analysis prediction
 
 ### [Daily minimum temperatures in Melbourne, Australia, 1981-1990 and Mobile](Daily minimum temperatures in Melbourne, Australia, 1981-1990_Mobile)
