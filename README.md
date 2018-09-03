@@ -30,3 +30,26 @@
 
 ### [Wine_BreastCancer](Wine_BreastCancer)
 * Wine and BreastCancer Classification task.
+
+### [classifications and clustering Techniques](classifications_clustering_Techniques)
+* classification techniques on kickStarter and adults dataset as:
+    *Linear SVM
+    *Logistic Regression
+    *KNN
+    *naive_bayes
+    *DecisionTreeClassifier
+    *BaggingClassifier
+    *RandomForestClassifier
+    *AdaBoostClassifier
+    *GradientBoostingClassifier
+    *XGBClassifier
+    *StackingClassifier
+    *Hard VotingClassifier
+    *Soft VotingClassifier
+
+* and some clustering techniques as:
+    *Kmeans 
+    *HC
+    *SpectralClustering
+    *Birch
+    *MiniBatchKMeans
