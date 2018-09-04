@@ -53,3 +53,4 @@
     * SpectralClustering
     * Birch
     * MiniBatchKMeans
+    * GaussianMixture
