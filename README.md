@@ -54,3 +54,9 @@
     * Birch
     * MiniBatchKMeans
     * GaussianMixture
+    
+### [Cross Valedation PCA Classification Report](CrossValedation_PCA_ClassificationReport)
+* using cross valedation method K-fold on pima-indians dataset and using pca and Classification Report.
+
+### [Automation PIPE Line](Automation_PIPELine)
+* Automation notebook to get the best model and best algorithm for classification and using PIPE function.
