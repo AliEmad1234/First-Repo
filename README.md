@@ -60,3 +60,6 @@
 
 ### [Automation PIPE Line](Automation_PIPELine)
 * Automation notebook to get the best model and best algorithm for classification and using PIPE function.
+
+### [tflearn Blood Cells](tflearn_BloodCells)
+* blood cells classification using tflearn deep learning and you can try [here](https://tflearn-bloodcells.herokuapp.com/).
